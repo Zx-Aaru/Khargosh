@@ -12,18 +12,18 @@ from strings import get_string, helpers
 
 # Images list (cleaned spaces)
 AARUMI_PIC = [
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg"
+    "https://files.catbox.moe/aov76u.jpg",
+    "https://files.catbox.moe/jwlita.jpg",
+    "https://files.catbox.moe/75au5f.jpg",
+    "https://files.catbox.moe/fh7vw7.jpg",
+    "https://files.catbox.moe/8q4t6u.jpg",
+    "https://files.catbox.moe/aov76u.jpg",
+    "https://files.catbox.moe/jwlita.jpg",
+    "https://files.catbox.moe/75au5f.jpg",
+    "https://files.catbox.moe/fh7vw7.jpg",
+    "https://files.catbox.moe/8q4t6u.jpg",
+    "https://files.catbox.moe/aov76u.jpg",
+    "https://files.catbox.moe/jwlita.jpg"
 ]
 
 # -------------------- Private Help Command --------------------
