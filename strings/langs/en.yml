@@ -178,8 +178,8 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>❖ {0} ᴘʟᴀʏᴇʀ</b>\n\n<b>❖ sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n<b>❖ sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n<b>❖ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<b>⊙ sᴏɴɢ ɪɴꜰᴏ : <a href={0}>{1}</a> \n</b>"
-stream_2 : "<b><blockquote>❖ ᴀʟɪᴠɪᴀ ᴍᴜsɪᴄ ʙᴏᴛ</a></b> ᴏɴ sᴛʀᴇᴧᴍɪɴɢ</b>\n\n<b>❍ sᴛʀᴇᴧᴍ ᴛʏᴘᴇ ➥</b> ʟɪᴠᴇsᴛʀᴇᴧᴍ [ υʀʟ ]\n<b>❍ ʙʏ ➥</b> {0}</blockquote></b>"
+stream_1 : "<b><blockquote>✮ 𝐒ʈᴧʀʈ𝛆ɗ 𝐒ʈʀ𝛆ɑɱɩŋʛ 𝐍๏Ꮗ ✮</blockquote></b>\n<blockquote><b>✯ 𝐓ɩttɭ𝛆 »</b> <a href={0}>{1}</a>\n<b>✬ 𝐃ʋɽɑʈɩσŋ »</b> {2} 𝐌ɪηᴜᴛєs\n<b>✭ 𝐁ɣ »</b> {3}</blockquote>\n<blockquote><b>❖  𝐌ᴧᴅє  𝐁ɣ ➛  [𝛊 𝛅 𝜏 ƙ н 𝛂 𝐫](t.me/Iamistkhar)</b></blockquote>"
+stream_2 : "<b><blockquote>✮ 𝐒ʈᴧʀʈ𝛆ɗ 𝐒ʈʀ𝛆ɑɱɩŋʛ 𝐍๏Ꮗ ✮</blockquote></b>\n<blockquote><b>❍ 𝛅ᴛʀєᴧϻ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>✭ 𝐁ɣ »</b> {0}</blockquote>"
 
 
 CLOSE_BUTTON  : "ᴄʟᴏsᴇ"
