@@ -44,7 +44,7 @@
 ᴇɪᴛʜᴇʀ ʏᴏᴜ ᴄᴏᴜʟᴅ ʟᴏᴄᴧʟʟʏ ʜᴏsᴛ ᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ [ʜᴇʀᴏᴋᴜ](https://heroku.com)
 ### 💜 ʜᴇʀᴏᴋᴜ
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Zx-Aaru/PublicHost"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Zx-Aaru/Khargosh"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 <br>
 
